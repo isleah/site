@@ -21,7 +21,7 @@ body {
   font-size: 16px;
   line-height: 1.9;
   color: #7f7f7f;
-  background: #fff;
+background-image: url('https://64.media.tumblr.com/2564216ae16e0650f450ef6701f20ea4/tumblr_inline_n1tfnkjL361qak244.png');
   position: relative;
 }
 
@@ -44,7 +44,7 @@ a:after {
   width: 100%;
   z-index: -1;
   content: "";
-  background: #e6e6e6;
+  background: #fa983a;
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
   transition: 0.3s;
@@ -466,4 +466,13 @@ textarea.form-control {
   opacity: 0;
 }
 
+.fab {
+  font-size:40px; 
+  margin:10px;
+}
+
+.outlinks {
+  font-weight:500;
+  font-size:20px;
+}
 /*# sourceMappingURL=style.css.map */
